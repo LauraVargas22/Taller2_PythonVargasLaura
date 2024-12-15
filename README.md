@@ -1,0 +1,2 @@
+# Ejercicios Python
+A continuación se desarrollaron algunos ejercicios haciendo uso de la lógico por medio de Python, en estos ejercicios se tenía como requerimiento hacer uso de funciones para la ejecución de los mismos.
